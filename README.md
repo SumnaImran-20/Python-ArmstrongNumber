@@ -1,1 +1,1 @@
-# Python-ArmstrongNumber
+# Python-Armstrong Number
